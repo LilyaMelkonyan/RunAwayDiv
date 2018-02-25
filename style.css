@@ -1,0 +1,15 @@
+div{
+	position: absolute;
+	width: 130px;
+	height: 130px;
+	border-radius: 20px 200px 200px 200px;
+	background-color: maroon;
+	align-items: center;
+	justify-content: center;
+	display: flex
+}
+p{
+	transform: rotate(45deg);
+	font-size: 19px;
+	color: white
+}
